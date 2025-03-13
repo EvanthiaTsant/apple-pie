@@ -21,5 +21,5 @@ For the Apple Filling
 	•	2 tbsp butter, cut into small cubes
 
 For the Egg Wash
-	•	1 egg
+	•	1 vegan egg, I swear to god it's vegan
 	•	1 tbsp milk
