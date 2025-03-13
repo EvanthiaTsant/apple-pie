@@ -1,5 +1,9 @@
 # apple-pie
 recipe:
+apple
+milk
+flour
+salt
 
 Ingredients
 
@@ -19,7 +23,3 @@ For the Apple Filling
 	•	1 tbsp lemon juice
 	•	1 tsp vanilla extract
 	•	2 tbsp butter, cut into small cubes
-
-For the Egg Wash
-	•	1 vegan egg, I swear to god it's vegan
-	•	1 tbsp milk
